@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Neha M 👋
 
-<!--
-**neham21062005/neham21062005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Student
+💻 Aspiring AI Engineer
+🚀 Currently building projects in Python & Machine Learning
+📍 India
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Skills I'm Building
+
+- Python
+- NumPy
+- Pandas
+- Machine Learning (Scikit-learn)
+
+
+
+📊 Projects
+
+- Student Marks Prediction
+- Spam Email Classifier
+
+
+
+🌱 Currently Learning
+
+- Machine Learning
+- Data Science
+- AI Basics
+
+
+
+📫 Contact Me
+
+- GitHub: 
+- Email: nehalakshmi5345@gmail.com
