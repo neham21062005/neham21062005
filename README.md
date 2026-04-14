@@ -20,6 +20,7 @@ Hi, I'm Neha M 👋
 
 - Student Marks Prediction
 - Spam Email Classifier
+- Rock Paper Scissors Game
 
 
 
