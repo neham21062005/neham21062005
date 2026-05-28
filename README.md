@@ -84,6 +84,24 @@ A Machine Learning and NLP-based application that classifies email messages as S
 https://github.com/neham21062005/Spam-Email-Classifier
 
 
+## ✊✋✌ Rock Paper Scissors Game
+
+A simple Python-based Rock Paper Scissors game developed as part of freeCodeCamp certification practice. The game allows users to play against the computer using random choice generation and conditional game logic.
+
+### Features
+- User vs Computer gameplay
+- Randomized computer moves
+- Game result prediction
+- Beginner-friendly Python project
+
+### Technologies Used
+- Python
+- Random Module
+
+🔗 GitHub:  
+https://github.com/neham21062005/Rock-paper-scissors
+
+
 
 # 🛠 Skills
 
